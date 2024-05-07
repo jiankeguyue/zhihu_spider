@@ -28,3 +28,10 @@ config.py 中填入cookie值，其余header头为选填项，可以不用管
 效果如下
 
 ![image-20240228213014346](https://gitee.com/yuejinjianke/tuchuang/raw/master/image/image-20240228213014346.png)
+
+
+公众号链接
+
+https://mp.weixin.qq.com/s/3mZ66SBusCsZg7lqcusMzg
+
+目前源码已下架，有需求者请通过公众号联系wx进行了解
